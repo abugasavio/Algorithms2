@@ -1,0 +1,1 @@
+let wr = (msg = '--------') => document.
